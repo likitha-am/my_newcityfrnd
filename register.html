@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Register – MyNewFrnd</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="auth-page">
+    <div class="auth-card">
+      <h1>Join MyNewFrnd</h1>
+      <p>Your journey to a new city starts here</p>
+
+      <form id="registerForm">
+        <input type="text" id="name" placeholder="Full Name" required>
+        <input type="email" id="email" placeholder="Email Address" required>
+        <input type="tel" id="phone" placeholder="Phone Number" required>
+        <input type="text" id="fromCity" placeholder="Current City" required>
+        <input type="text" id="toCity" placeholder="City You're Moving To" required>
+
+        <select id="language" required>
+          <option value="">Preferred Language</option>
+          <option>English</option>
+          <option>Hindi</option>
+          <option>Kannada</option>
+          <option>Telugu</option>
+        </select>
+
+        <select id="age" required>
+          <option value="">Age Group</option>
+          <option>18-25</option>
+          <option>26-35</option>
+          <option>36-45</option>
+          <option>46+</option>
+        </select>
+
+        <button type="submit">Create Account</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="register.js"></script>
+</body>
+
+</html>

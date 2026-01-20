@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Assistant – MyNewFrnd</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="auth-page">
+    <div class="auth-card">
+      <h1>🤖 MyNewFrnd AI Assistant</h1>
+      <p>Ask anything about your new city</p>
+
+      <div id="chatBox" style="height:250px; overflow-y:auto; margin-bottom:15px;"></div>
+
+      <input type="text" id="userInput" placeholder="Ask a question..." />
+      <button onclick="sendMessage()">Send</button>
+
+      <p class="auth-link">
+        <a href="dashboard.html">⬅ Back to Dashboard</a>
+      </p>
+    </div>
+  </div>
+
+ <script type="module" src="chat.js"></script>
+
+</body>
+</html>
