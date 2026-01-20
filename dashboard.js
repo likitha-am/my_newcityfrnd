@@ -46,3 +46,8 @@ function logout() {
   localStorage.removeItem("mynewfrnd_loggedin");
   window.location.href = "login.html";
 }
+function contactCityMate(name) {
+  localStorage.setItem("selectedCityMate", name);
+  window.location.href = "citymate-chat.html";
+}
+
