@@ -29,5 +29,6 @@ MyNewFrnd was built to demonstrate how technology can simplify relocation by com
 - LLaMA AI Model
 - Streamlit
 - Firebase
-- Git & GitHub
+
+
 
