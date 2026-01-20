@@ -27,8 +27,8 @@ MyNewFrnd was built to demonstrate how technology can simplify relocation by com
 - HTML5, CSS3, JavaScript
 - Python
 - LLaMA AI Model
-- Streamlit
 - Firebase
+
 
 
 
