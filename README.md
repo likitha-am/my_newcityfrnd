@@ -18,7 +18,7 @@ with CityMates and AI-powered assistance.
 - User registration with preference-based matching
 - 24/7 AI-powered chat assistance
 
-CityMate Chat Feature (New)
+CityMate Chat Feature 
 
 MyNewFrnd includes a one-to-one real-time chat system that allows tourists to directly communicate with their selected CityMate. Once a CityMate is chosen from the dashboard, users are redirected to a dedicated chat interface where messages are exchanged securely and instantly.
 
@@ -33,10 +33,6 @@ Each conversation is uniquely identified using a chat ID generated from the tour
 - Clean and simple chat UI
 This feature brings real-world interaction to the platform and simulates how modern relocation and service platforms enable direct communication between users and service providers.
 
-## Project Motivation
-
-Moving to a new city can be overwhelming, especially for students and working professionals.
-MyNewFrnd was built to demonstrate how technology can simplify relocation by combining smart matching, real-time communication, and user-friendly design.
 
 ## Technologies Used
 - HTML5, CSS3, JavaScript
